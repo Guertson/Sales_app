@@ -73,7 +73,6 @@ jupyterlab==4.4.3
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.15
-keplergl==0.3.7
 keras==3.10.0
 kiwisolver==1.4.8
 libclang==18.1.1
@@ -142,7 +141,6 @@ soupsieve==2.7
 stack-data==0.6.3
 streamlit==1.46.0
 streamlit-echarts==0.4.0
-streamlit-keplergl==0.3.0
 streamlit_folium==0.25.0
 tenacity==9.1.2
 tensorboard==2.19.0
