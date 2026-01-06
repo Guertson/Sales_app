@@ -1,3 +1,3 @@
-# Click this link to see my streamlit dashboard:
+## Click this link to view dashboard:
 
 https://guertson-jean-baptiste-sales.streamlit.app/
